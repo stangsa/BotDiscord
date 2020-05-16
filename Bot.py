@@ -46,4 +46,4 @@ async def unban(ctx, *, member):
             await ctx.send(f'Unbaned {user.name}#{user.id}')
             return
 
-client.run('NzEwMDA1MDYxMDkwMjc5NDc1.Xrv0FQ.bweVohDi0SsMbg4qkS9iZCcCcxQ')
+client.run('')
